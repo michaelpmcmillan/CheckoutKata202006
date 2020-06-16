@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckoutKata", "CheckoutKat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckoutKata.Tests", "CheckoutKata.Tests\CheckoutKata.Tests.csproj", "{76958671-FC68-479B-B0B7-EFBCC4B83570}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckoutKata,Console.Tests", "CheckoutKata,Console.Tests\CheckoutKata,Console.Tests.csproj", "{FEEB203D-31F4-4FF7-AAD1-3A052B9FAE22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckoutKata.Console.Tests", "CheckoutKata.Console.Tests\CheckoutKata.Console.Tests.csproj", "{FEEB203D-31F4-4FF7-AAD1-3A052B9FAE22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

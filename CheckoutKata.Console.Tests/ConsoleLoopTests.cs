@@ -4,7 +4,7 @@ using CheckoutKata20200616;
 using Moq.AutoMock;
 using Xunit;
 
-namespace CheckoutKata_Console.Tests
+namespace CheckoutKata.Console.Tests
 {
     public class ConsoleLoopTests
     {

@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>CheckoutKata_Console.Tests</RootNamespace>
+    <RootNamespace>CheckoutKata.Console.Tests</RootNamespace>
 
     <IsPackable>false</IsPackable>
 
